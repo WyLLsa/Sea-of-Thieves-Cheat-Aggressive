@@ -1,5 +1,7 @@
 # Aggressive Cheat for Sea of Thieves
 
+![24](https://github.com/user-attachments/assets/8d8a5cab-1b36-4ec7-a512-faad25c5f3b7)
+
 ## Description:
 The Aggressive cheat for Sea of Thieves is designed to provide players with a wide range of powerful tools, enhancing gameplay and offering various customizations for ultimate control. From Aimbot and ESP to advanced ship mechanics, this cheat unlocks new possibilities for dominating the seas.
 
